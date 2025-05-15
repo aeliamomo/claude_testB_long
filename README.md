@@ -80,7 +80,7 @@ numpy and scikit-learn
 ### Step 4: wait for 1 minute, delete this file in google docs
 
 #  Project Structure
-
+```bash 
 minimal-python-ml/
 ├── data/
 │   └── sample.csv                # Example input dataset
@@ -104,5 +104,7 @@ minimal-python-ml/
 │
 ├── README.md
 └── LICENSE
+```
+
 
 
