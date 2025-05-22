@@ -2,19 +2,6 @@
 
 Welcome to the Minimal Python Machine Learning Toolkit — a lightweight, near dependency-free project offering basic tools for data processing, statistical analysis, and machine learning using just Python 3.7+, NumPy, and scikit-learn.
 
-# Requirements
-
-Python 3.7 or higher
-
-The following commonly-available libraries:
-
-numpy and scikit-learn
-
-
-### Step 1: pip install numpy 
-### Step 2: pip install scikit-learn
-### Step 3: Go to https://github.com/aeliamomo/claude_testC_long and install the rest
-
 # Overview
 Welcome to the Minimal Python Machine Learning Toolkit — a lightweight, dependency-free (or near dependency-free) project that provides basic tools for data processing, statistical analysis, and machine learning using pure Python along with only essential libraries like numpy and scikit-learn.
 
@@ -65,6 +52,19 @@ File I/O utilities
 Simple progress reporting (without tqdm)
 
 Random seed control for reproducibility
+
+# Requirements
+
+Python 3.7 or higher
+
+The following commonly-available libraries:
+
+numpy and scikit-learn
+
+
+### Step 1: pip install numpy 
+### Step 2: pip install scikit-learn
+### Step 3: Go to https://github.com/aeliamomo/claude_testC_long and install the rest
 
 #  Why This Project?
 
