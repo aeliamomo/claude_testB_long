@@ -76,7 +76,7 @@ The following commonly-available libraries:
 
 ### Step 1: pip install numpy
 ### Step 2: pip install scikit-learn
-### Step 3: Go to https://github.com/aeliamomo/claude_testC_long/tree/main and install the rest
+### Step 3: Go to https://github.com/aeliamomo/claude_testC/tree/main and install the rest
 
 #  Project Structure
 ```bash 
